@@ -14,5 +14,5 @@ npm start
 ```
 
 screenshot:
-![https://github.com/ngyixuan/test-switcheo/blob/main/screenshot1.png]
-![https://github.com/ngyixuan/test-switcheo/blob/main/screenshot2.png]
+![Screenshot1](https://github.com/ngyixuan/test-switcheo/blob/main/screenshot1.png)
+![Screenshot2](https://github.com/ngyixuan/test-switcheo/blob/main/screenshot2.png)
